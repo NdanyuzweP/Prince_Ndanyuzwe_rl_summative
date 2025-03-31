@@ -11,7 +11,7 @@ from google.colab import drive
 drive.mount('/content/drive')
 
 # Commented out IPython magic to ensure Python compatibility.
-# %cd /content/drive/MyDrive/Prince_Ndanyuzwe_rl_summative-main.zip
+# # %cd /content/drive/MyDrive/Prince_Ndanyuzwe_rl_summative-main.zip
 
 # # Unzip the project directory
 # !unzip /content/drive/MyDrive/Prince_Ndanyuzwe_rl_summative-main.zip -d /content/drive/MyDrive/
