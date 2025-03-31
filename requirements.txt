@@ -8,4 +8,8 @@ imageio
 stable-baselines3
 torch
 tensorboard
-opencv-python
+
+gym
+stable-baselines3
+torch torchvision torchaudio
+opencv-python-headless
