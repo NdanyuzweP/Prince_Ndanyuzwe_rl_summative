@@ -1,0 +1,11 @@
+gymnasium
+numpy
+pygame
+PyOpenGL
+PyOpenGL_accelerate
+matplotlib
+imageio
+stable-baselines3
+torch
+tensorboard
+opencv-python
